@@ -1,2 +1,2 @@
 # score_predictor
-Just a basic regression algorithm for predicting scores in a cricket match.
+A regression algorithm for predicting scores in a cricket match with pre-processing steps.
